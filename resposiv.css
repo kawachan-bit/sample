@@ -1,0 +1,200 @@
+
+@media(max-width:1170px ){
+  /* トップページ */
+.header-logo img {
+    width: 250px;
+    height: 80px;  
+  }
+
+.header-nav {
+    font-size: 15px;
+  }
+
+.header-btn a {
+    width: 13rem;
+  }
+
+.img-logo {
+  font-size: 37px;
+}
+
+  
+.header-link a {
+    font-size: 16px;
+
+  }
+    
+.main-link a {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+iframe {
+  width: auto;
+}
+
+address h3  {
+  font-size: 17px;
+}
+
+address p {
+  font-size: 15px;
+}
+
+address a {
+  font-size: 15px;
+}
+
+.footer-nav {  
+  width: 100%; 
+  
+}
+
+/* 会社案内 */
+
+/* 事業内容 */
+table th {
+  font-size: 30px;
+}
+table td {
+  font-size: 30px;
+}
+
+/* 取扱製品 */
+.content{
+  width: 100%;
+}
+
+/* 採用情報 */
+table tr, table td {
+  font-size: 15px;
+}
+
+
+
+
+
+}
+
+@media (max-width:570px) {
+/* トップページ */
+.header-logo img {
+  width: 100%;
+}
+
+.header-btn a {
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  
+}
+.header-link a {
+  font-size: 18px;
+  margin: 0 9px;
+}
+.img-logo {
+  font-size: 18px;
+}
+.top-img img {
+  margin-top: 10px;
+  height: 250px;
+}
+
+main {
+  width: 100%;
+}
+article {
+  font-size: 1rem;
+  margin-bottom: 0px;
+}
+
+.main-link a {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.main-link a {
+  text-orientation: upright;
+}
+
+.main-link li {
+  margin:0 5px; 
+}
+
+iframe {
+  width: 100%;
+}
+
+address h3  {
+  font-size: 17px;
+}
+
+address p {
+  font-size: 15px;
+}
+
+address a {
+  font-size: 15px;
+}
+
+.footer-nav {  
+  width: 100%;
+  margin: 0 auto;
+  display: inline-block;
+  
+}
+
+iframe img {
+  width: 100%;
+}
+.copy p {
+  font-size: 10px;
+}
+
+/* ここから会社案内 */
+.img-logo {
+  height: 150px;
+  line-height: 150px;
+}
+
+table {
+  border-collapse: collapse;
+}
+table td, table th {
+  display: block;
+  padding: 10px;
+}
+
+.contents2 td {
+  width: 100%;
+}
+
+/* 事業内容 */
+table th {
+  font-size: 20px;
+}
+table td {
+  font-size: 20px;
+}
+.img-logo-3 {
+  font-size: 30px;
+  height: 150px;
+  padding-top: 30px;
+}
+.contents section {  
+  width: 100%;
+  margin: 0 auto;
+}
+
+.category a {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* 採用情報 */
+.comand {
+  height: 45px;
+}
+
+
+}
